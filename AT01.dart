@@ -1,4 +1,4 @@
 
 void main(List<String> args) {
-  print("Tempos difícies geram pesssoas fortes");
+  print("Você só vence amanhã se não desisti hoje");
 }
